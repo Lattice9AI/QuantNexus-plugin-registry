@@ -20,9 +20,9 @@
   "versions": [
     {
       "version": "1.0.0",
-      "releaseDate": "2026-02-06",
-      "downloadUrl": "https://github.com/SilverstreamsAI/QuantNexus-plugins/releases/download/quant-lab-nexus-v1.0.0/quant-lab-nexus-1.0.0.zip",
-      "sha256": "cbc89b153755d887ddc4b0a156121606ccd1b52147f90b1bcfb64a48318beed2",
+      "releaseDate": "2026-03-06",
+      "downloadUrl": "https://github.com/SilverstreamsAI/QuantNexus-plugin-releases/releases/download/quant-lab-nexus-v1.0.0/quant-lab-nexus-1.0.0.zip",
+      "sha256": "10c10403981ca71549f766d5c69d1344cee6981a1726cf4749d57f7411b31bd4",
       "minEngine": "0.1.0",
       "changelog": "Initial release - Alpha Factory with signal combination and evaluation"
     }
