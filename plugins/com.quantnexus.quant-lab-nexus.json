@@ -8,7 +8,10 @@
   },
   "repository": "https://github.com/SilverstreamsAI/QuantNexus-plugins",
   "license": "MIT",
-  "categories": ["execution", "alpha"],
+  "categories": [
+    "execution",
+    "alpha"
+  ],
   "pricing": {
     "type": "free"
   },
@@ -26,5 +29,8 @@
       "minEngine": "0.1.0",
       "changelog": "Initial release - Alpha Factory with signal combination and evaluation"
     }
-  ]
+  ],
+  "version": "1.0.1",
+  "sha256": "9e6e4c0a15824eef4c47904c0e15ba72592999b2ea35235a13cdf76000f17c96",
+  "downloadUrl": "https://github.com/SilverstreamsAI/QuantNexus-plugin-registry/releases/download/quant-lab-nexus-v1.0.1/quant-lab-nexus-1.0.1.zip"
 }
