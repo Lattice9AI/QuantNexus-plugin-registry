@@ -22,6 +22,14 @@
   },
   "versions": [
     {
+      "version": "1.0.2",
+      "releaseDate": "2026-03-09",
+      "downloadUrl": "https://github.com/SilverstreamsAI/QuantNexus-plugin-registry/releases/download/quant-lab-nexus-v1.0.2/quant-lab-nexus-1.0.2.zip",
+      "sha256": "c5acb0df911f40fa848b62dc054057930ebc6da2b139f1217e20c518d101dd23",
+      "minEngine": "0.1.0",
+      "changelog": "TICKET_457: Rebuild with IIFE format (fix ESM bundle load failure)"
+    },
+    {
       "version": "1.0.1",
       "releaseDate": "2026-03-07",
       "downloadUrl": "https://github.com/SilverstreamsAI/QuantNexus-plugin-registry/releases/download/quant-lab-nexus-v1.0.1/quant-lab-nexus-1.0.1.zip",
