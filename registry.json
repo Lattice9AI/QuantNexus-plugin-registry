@@ -37,6 +37,15 @@
       "version": "0.9.0",
       "icon": null,
       "tags": ["ai", "analysis", "optimization"]
+    },
+    {
+      "id": "com.quantnexus.signal-generator-nexus",
+      "name": "Signal Generator",
+      "description": "Live signal generation and execution via CCXT - connect to exchanges, generate trading signals, and execute orders",
+      "author": "QuantNexus",
+      "version": "1.0.0",
+      "icon": null,
+      "tags": ["trading", "signals", "execution", "ccxt", "live"]
     }
   ]
 }

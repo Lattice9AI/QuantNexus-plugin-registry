@@ -1,0 +1,39 @@
+{
+  "id": "com.quantnexus.signal-generator-nexus",
+  "name": "Signal Generator",
+  "description": "Live signal generation and execution via CCXT. Connect to cryptocurrency exchanges, generate trading signals from backtested strategies, and execute orders with built-in risk management.",
+  "author": {
+    "name": "QuantNexus",
+    "github": "SilverstreamsAI"
+  },
+  "repository": "https://github.com/Lattice9AI/QuantNexus-ccxt",
+  "license": "Proprietary",
+  "categories": [
+    "trading",
+    "data"
+  ],
+  "pricing": {
+    "type": "paid",
+    "provider": "lemonsqueezy",
+    "productId": "signal-generator-nexus"
+  },
+  "permissions": {
+    "network": true,
+    "filesystem": "plugin",
+    "native": true
+  },
+  "process": {
+    "mode": "independent",
+    "entry": "host/dist/main.js"
+  },
+  "versions": [
+    {
+      "version": "1.0.0",
+      "releaseDate": "2026-04-05",
+      "downloadUrl": "https://github.com/Lattice9AI/QuantNexus-ccxt/releases/download/v1.0.0/signal-generator-nexus-1.0.0.zip",
+      "sha256": "",
+      "minEngine": "0.1.0",
+      "changelog": "Initial release - Live signal generation, CCXT exchange connection, order execution with risk management"
+    }
+  ]
+}
